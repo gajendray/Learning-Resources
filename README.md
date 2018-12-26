@@ -1,3 +1,4 @@
+
 # Learning-Resources
 Learning Resources for progarmmer
 
@@ -5,4 +6,6 @@ Learning Resources for progarmmer
   https://docs.microsoft.com/en-us/aspnet/web-api/
   
   # DS & Algo
+  https://www.youtube.com/user/mycodeschool
+  
   
