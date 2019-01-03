@@ -9,3 +9,14 @@ Learning Resources for progarmmer
   https://www.youtube.com/user/mycodeschool
   
   
+  # Angular
+  
+  https://www.youtube.com/user/kudvenkat/playlists
+  
+  # System Design
+  
+  https://github.com/donnemartin/system-design-primer
+  https://github.com/checkcheckzz/system-design-interview
+  https://github.com/mission-peace/interview
+  
+  
