@@ -1,11 +1,11 @@
-
+ 
 # Learning-Resources
 Learning Resources for progarmmer
 
 * ASP.NET Web API
- *[ASP.NET Web API](#aspnet-web-api)
+ * [ASP.NET Web API](#aspnet-web-api)
 * DS & Algo
- *[My Code School](#ds--algo)
+ * [My Code School](#ds--algo)
 * Front End
   * [Angular](#DS--Algo)
 
