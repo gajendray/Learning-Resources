@@ -11,6 +11,9 @@ Learning Resources for progarmmer
  
 * Front End
   * [Angular](#DS--Algo)
+ 
+* Front End
+  * [Angular](#DS--Algo)
 
 ************************************
 
