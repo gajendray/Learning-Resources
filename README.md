@@ -14,7 +14,7 @@ High quality learning resources for progarmmer.
   * [Angular](#DS--Algo)
 
 * Syetem Design
-  * [System Design](System-Design)
+  * [System Design](#system-design)
   
 * ML & AI
     * coming soon
