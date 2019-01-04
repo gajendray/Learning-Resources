@@ -21,6 +21,9 @@ High quality learning resources for progarmmer.
 
 * Blockchain
     * coming soon
+    
+* DevOps
+    * coming soon
 
 ************************************
 
