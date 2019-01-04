@@ -17,10 +17,10 @@ High quality learning resources for progarmmer.
   * [System Design](System-Design)
   
 * ML & AI
-    * comming soon
+    * coming soon
 
 * Blockchain
-    * comming soon
+    * coming soon
 
 ************************************
 
