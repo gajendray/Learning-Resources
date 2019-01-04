@@ -1,4 +1,4 @@
- 
+  
 # Learning-Resources
 Learning Resources for progarmmer
 
@@ -12,7 +12,7 @@ Learning Resources for progarmmer
   * [Angular](#DS--Algo)
 
 * Syetem Design
-  *[System Design](System-Design)
+  * [System Design](System-Design)
 
 ************************************
 
