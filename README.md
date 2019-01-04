@@ -13,6 +13,12 @@ Learning Resources for progarmmer
 
 * Syetem Design
   * [System Design](System-Design)
+  
+* ML & AI
+    * comming soon
+
+* Blockchain
+    * comming soon
 
 ************************************
 
