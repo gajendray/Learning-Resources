@@ -7,6 +7,7 @@ Learning Resources for progarmmer
  
 * DS & Algo
  * [My Code School](#ds--algo)
+ * [Angular](#DS--Algo)
  
 * Front End
   * [Angular](#DS--Algo)
