@@ -1,6 +1,6 @@
   
 # Learning-Resources
-High quality larning Resources for progarmmer.
+High quality learning resources for progarmmer.
 
 # Index
 
