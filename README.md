@@ -1,6 +1,5 @@
-  
 # Learning-Resources
-High quality learning resources for progarmmer. No junk please.
+Handpicked High quality learning resources for progarmmer. No junk please.
 
 # Index
 
