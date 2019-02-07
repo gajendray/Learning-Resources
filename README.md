@@ -58,8 +58,8 @@ Handpicked high quality learning resources for progarmmer. No junk please.
   I believe every OOP's programmer should understand the design patterns. Since old school  all the way we have taught  procedure         programming, I have seen many programmers try to write the code in procedure way even though they use object oriented languages 
 
   *Design pattern Unlocks the power of object oriented programming*
-                                                    Gajendra Yadav
+                                                   -- Gajendra Yadav
 
-[Head First Design Pattern Book](https://www.flipkart.com/head-first-design-patterns-brain-friendly-guide).
+[Head First Design Pattern Book](https://www.flipkart.com/head-first-design-patterns-brain-friendly-guide/p/itmfc9kncfg2hfqk).
   
   
