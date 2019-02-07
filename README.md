@@ -1,4 +1,4 @@
-
+ 
 # Learning-Resources
 Handpicked high quality learning resources for progarmmer. No junk please.
 
@@ -16,7 +16,7 @@ Handpicked high quality learning resources for progarmmer. No junk please.
 * Syetem Design
   * [System Design](#system-design)
   
-* Design Pattern Book
+* Design Pattern Resource
    * [Design Pattern](#design-pattern-book)
   
 * ML & AI
