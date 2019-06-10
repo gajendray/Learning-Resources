@@ -36,6 +36,7 @@ Handpicked high quality learning resources for progarmmer. No junk please.
   ## DS & Algo
   https://www.youtube.com/user/mycodeschool
   
+https://github.com/tayllan/awesome-algorithms#notification-settings
   
   # Angular
   
