@@ -7,8 +7,8 @@ Handpicked high quality learning resources for progarmmer. No junk please.
 * ASP.NET
   * [ASP.NET Web API](#aspnet-web-api)
  
- * C#
-  * [C#](#c#)
+* C#
+  * [C#](#c)
  
  
 * DS & Algo
