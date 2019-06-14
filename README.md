@@ -7,6 +7,10 @@ Handpicked high quality learning resources for progarmmer. No junk please.
 * ASP.NET
   * [ASP.NET Web API](#aspnet-web-api)
  
+ * C#
+  * [C#](#c#)
+ 
+ 
 * DS & Algo
   * [My Code School](#ds--algo)
  
@@ -32,6 +36,11 @@ Handpicked high quality learning resources for progarmmer. No junk please.
 
   # ASP.NET Web API
   https://docs.microsoft.com/en-us/aspnet/web-api/
+  
+  # C#
+  https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/
+  https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index
+  
   
   ## DS & Algo
   https://www.youtube.com/user/mycodeschool
