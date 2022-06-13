@@ -74,5 +74,6 @@ https://github.com/tayllan/awesome-algorithms#notification-settings
 
 # Resources 
 https://github.com/mtdvio/every-programmer-should-know
+https://www.teamblind.com/post/7-onsites-7-offers-aAFTykAD
   
   
