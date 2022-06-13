@@ -71,5 +71,8 @@ https://github.com/tayllan/awesome-algorithms#notification-settings
                                                    -- Gajendra Yadav
 
 [Head First Design Pattern Book](https://www.flipkart.com/head-first-design-patterns-brain-friendly-guide/p/itmfc9kncfg2hfqk).
+
+# Resources 
+https://github.com/mtdvio/every-programmer-should-know
   
   
