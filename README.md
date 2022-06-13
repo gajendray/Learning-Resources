@@ -12,7 +12,7 @@ Handpicked high quality learning resources for progarmmer. No junk please.
  
  
 * DS & Algo
-  * [My Code School](#ds--algo)
+  * [DSA Section](#ds--algo)
  
 * Front End
   * [Angular](#DS--Algo)
