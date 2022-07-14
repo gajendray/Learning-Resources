@@ -36,6 +36,7 @@ Handpicked high quality learning resources for progarmmer. No junk please.
 
   # ASP.NET Web API
   https://docs.microsoft.com/en-us/aspnet/web-api/
+  https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
   
   # C#
   https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/
