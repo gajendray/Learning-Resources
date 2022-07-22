@@ -82,5 +82,7 @@ https://www.teamblind.com/post/7-onsites-7-offers-aAFTykAD
 https://github.com/Developer-Y/cs-video-courses
 
 https://github.com/topics/coding-interview
+
+https://github.com/keyvanakbary/learning-notes/blob/master/books/designing-data-intensive-applications.md
   
   
